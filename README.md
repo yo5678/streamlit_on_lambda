@@ -1,6 +1,6 @@
 # streamlit on lambda
 
-streamlitをLambdaで動作させることを試みました。
+streamlitをLambdaで動作させることを試みましたが、うまくできませんでした。
 
 ## poetryで環境構築
 
