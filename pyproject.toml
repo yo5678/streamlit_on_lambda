@@ -8,8 +8,11 @@ packages = [{include = "streamlit_on_lambda"}]
 
 [tool.poetry.dependencies]
 python = "3.8.12"
-streamlit = "^1.25.0"
+streamlit = "1.20.0"
 
+
+[tool.poetry.group.dev.dependencies]
+aws-sam-cli = "^1.95.0"
 
 [build-system]
 requires = ["poetry-core"]
